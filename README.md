@@ -17,6 +17,8 @@ This repository contains the Arduino source code and documentation for a Smart L
 * Robot Chassis
 * **Power System:** 2S Lithium Battery configuration yielding 7.4V, protected by a Battery Management System (BMS), and regulated by a Buck Converter stepping down the voltage to 5V for the Arduino.
 
+![Components](images/Picture2.jpg)
+
 ## Pin Configuration
 
 ### Sensors
@@ -33,6 +35,8 @@ This repository contains the Arduino source code and documentation for a Smart L
 * **IN3 (Left Motor Backward):** D8
 * **IN4 (Left Motor Forward):** D9
 * **ENB (Left Motor Speed):** D10
+
+![Circuit Diagram](images/Picture1.jpg)
 
 ## Installation & Upload
 1. Clone this repository to your local machine.
